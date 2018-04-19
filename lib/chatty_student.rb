@@ -11,5 +11,4 @@ class ChattyStudent
         puts "Pick me!"
       end
     end
-  end
-end
+  
